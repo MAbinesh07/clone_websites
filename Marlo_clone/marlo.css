@@ -1,0 +1,737 @@
+*{
+	Margin: 0;
+	Padding: 0;
+	Text-decoration: none;
+}
+Nav{
+	Width: 100%;
+	Height: 70px;
+	Background-color: skyblue;
+}
+.nav-1{
+	Border: 0px solid black;
+	Width:20%;
+	Height: 40px;
+	Background-color: skyblue;
+	Float: left;
+}
+.nav-1 a img{
+	Width: 100%;
+	Height: 40px;
+}
+ .nav-1{
+	Margin-left: 40px;
+    Margin-top: 10px;
+}
+.nav-2 {
+	Border: 0px solid black;
+	Width:50%;
+	Height: 40px;
+	Float: right;
+	Margin-top: 20px;
+	Color: white;
+}
+.nav-2 ul li{
+	Display: inline-block;
+	Font-size: 20px;
+	Margin-left: 20px;
+
+}
+.nav-2 .login{
+	Border: 1px solid white;
+	Width:140%;
+	Height: 30px;
+	Text-align: center;
+	Border-radius: 10px;
+}
+.nav-2 .signup{
+	Border: 0px solid black;
+	Width:140%;
+	Height: 30px;
+	Text-align: center;
+	Margin: 10px;
+	Border-radius: 10px;
+	Background-color: orange;
+}
+.nav-2  a{
+	Margin: 5px;
+	Color: white;
+}
+.parent{
+	Border: 0px solid black;
+	Width: 99.999%;
+	Height: 700px;
+	Background-color: skyblue;
+}
+.right{
+	Border: 0px solid black;
+	Width: 40%;
+	Height: 600px;
+	Float: right;
+	Margin-top: 80px;
+	Margin-right: 40px;
+	Background-color: skyblue;
+}
+.right img{
+	Width: 100%;
+	Height: 600px;
+}
+.left{
+	Border: 0px solid black;
+	Width: 40%;
+	Height: 600px;
+	Float: left;
+	Margin-top: 80px;
+	Margin-left: 40px;
+	Background-color: skyblue;
+}
+.para-1{
+	Margin-top: 150px;
+	Font-size: 50px;
+	Margin-left: 100px;
+	Font-weight: bold;
+	Color: white;
+}
+.para-2{
+	Margin-top: 2px;
+	Font-size: 50px;
+	Margin-left: 100px;
+	Font-weight: bold;
+	Color: white;
+}
+.para-3{
+	Margin-top: 2px;
+	Font-size: 50px;
+	Margin-left: 100px;
+	Font-weight: bold;
+	Color: white;
+}
+.para-4{
+	Margin-left: 100px;
+	Margin-top: 20px;
+	Color: white;
+}
+.link-1{
+	Border: 0px solid black;
+	Width:35%;
+	Height: 40px;
+	Margin-left: 100px;
+	Margin-top: 20px;
+	Background-color: orange;
+	Border-radius: 5px;
+}
+.left a .link-1:hover{
+	Width: 40%;
+	Height: 45px;
+}
+A .link-1 p{
+	Text-align: center;
+	Color: white;
+	Padding-top: 8px;
+	Font-size: 20px;
+}
+.para-5{
+	Border: 0px solid black;
+	Width: 50%;
+	Height: 80px;
+	Text-align: center;
+	Font-size: 35px;
+	Margin-left: 25%;
+	Font-weight: bold;
+	Margin-top: 20px;
+}
+.empty{
+	Border: 0px solid black;
+	Width: 10%;
+	Height: 5px;
+	Background-color: skyblue;
+	Border-radius: 5px;
+	Margin-left: 45%;
+	Margin-top: 30px;
+}
+.parent-1{
+	Border: 0px solid black;
+	Width: 99.9%;
+	Height: 900px;
+}
+.child-1{
+	Border: 0px solid black;
+	Width: 20%;
+	Height: 400px;
+	Margin-left: 150px;
+	Margin-top: 50px;
+}
+.row-1{
+	Display: flex;
+}
+.row-2{
+	Display: flex;
+}
+.para-6{
+	Border: 0px solid black;
+	Width: 100%;
+	Height: 152px;
+}
+.p1 p{
+	Margin-top: 5px;
+	Margin-left: 15px;
+	Font-size: 20px;
+}
+.p1 h2{
+     
+     Margin-top: 10px;
+	Margin-left: 15px;
+}
+.p1 a p{
+	 Margin-bottom: 10px;
+     Margin-top: 10px;
+	Margin-left: 15px;
+	Color: black;
+	Font-weight: bold;
+}
+.p1 img{
+	Width: 100%;
+	Height: 248px;
+	Margin-top: -20px;
+}
+.p1 a p:hover{
+	Color: blue;
+}
+.para-7{
+	Border: 0px solid black;
+	Width:60%;
+	Height: 100px;
+	Margin-top: 50px;
+}
+.para-7 p{
+	Padding-left: 100px;
+	Font-size: 35px;
+	Font-weight: bold;
+}
+.empty-1{
+	Border: 0px solid black;
+	Width: 15%;
+	Height: 6px;
+	Background-color: skyblue;
+	Border-radius: 5px;
+	Margin-left: 100px;
+	Margin-top: 20px;
+}
+Table{
+			Border:0px solid black;
+			Width: 80%;
+			Height: 700px;
+			Background-color: skyblue;
+			Margin-left: 150px;
+		}
+		Td{
+			Border: 0px solid black;
+			Width: 20%;
+			Height: 30px;
+			Text-align: center;
+			Background-color: skyblue;
+		}
+		Th{
+			Border: 0px solid black;
+			Width:20%;
+			Height:10px;
+			Background-color: skyblue;
+		}
+		.empty-2{
+			Border: 0px solid black;
+			Width: 20%;
+			Height: 50px;
+			Margin-left: 730px;
+			Background-color: blue;
+			Margin-top: 50px;
+		}
+		.empty-2 p{
+                  Text-align: center;
+                  Padding-top: 10px;
+                  Font-size: 20px;
+                  Color: white;
+		}
+		Table td i{
+			Color: green;
+		}
+		.para-8{
+			Border: 0px solid black;
+			Width: 60%;
+			Height: 120px;
+			Margin-top: 60px;
+			Margin-left: 260px;
+		}
+		.para-8 p{
+			Text-align: center;
+			Font-weight: bold;
+			Font-size: 35px;
+		}
+		.empty-3{
+			Border: 0px solid black;
+			Width: 20%;
+			Height: 10px;
+			Border-radius: 5px;
+			Margin-left: 350px;
+			Margin-top: 20px;
+			Background-color: skyblue;
+		}
+		.parent-2{
+	           Border: 0px solid black;
+	            Width: 99.9%;
+	            Height: 1000px;
+	        }
+	        .child-2{
+	Border: 0px solid black;
+	Width: 20%;
+	Height: 400px;
+	Margin-left: 100px;
+	Margin-top: 50px;
+}
+.row-3{
+	Display: flex;
+}
+.row-4{
+	Display: flex;
+}
+.para-9{
+	Border: 0px solid black;
+	Width: 100%;
+	Height: 150px;
+}
+.para-9 p{
+	Margin-top: 10px;
+}
+.para-9 a p{
+	Color: black;
+	Margin-top: 10px;
+}
+.image-1{
+	Border: 0px solid black;
+	Width: 100%;
+	Height: 250px;
+}
+.image-1 img{
+	Width: 100%;
+	Height: 250px;
+}
+.para-9 a p:hover{
+	Color: blue;
+}
+.parent-3{
+	Border: 0px solid black;
+	Width: 99.9%;
+	Height: 600px;
+	Background-color: skyblue;
+}
+.child-3{
+	Border: 0px solid black;
+	Width: 35%;
+	Height: 500px;
+	Float: left;
+	Margin-left: 100px;
+	Background-color: skyblue;
+}
+.image-2{
+    Border: 0px solid black;
+	Width: 50%;
+	Height: 500px;
+	Float: right;
+	Background-color: skyblue;
+	Margin-top: 40px;
+	Margin-right: 50px;
+}
+.image-2 img{
+	Width: 100%;
+	Height: 500px;
+}
+ .para-10{
+	Font-size: 40px;
+	Margin-left: 80px;
+	Margin-top: 70px;
+	Color: white;
+}
+.para-11{
+	Font-size: 40px;
+	Margin-left: 80px;
+	Margin-top: 5px;
+	Color: white;
+}
+.para-12{
+		Margin-left: 80px;
+	Margin-top: 20px;
+	Color: white;
+}
+.para-13{
+		Margin-left: 80px;
+	Margin-top: 2px;
+	Color: white;
+}
+
+.empty-4{
+	Border: 0px solid black;
+	Width:20%;
+	Height: 5px;
+	Margin-left: 80px;
+	Margin-top: 20px;
+	Background-color: white;
+}
+.link-2{
+	Border:0px solid black ;
+	Width: 25%;
+	Height: 30px;
+
+}
+A .link-2 p{
+	Text-align: center;
+	Padding-top: 7px;
+	Color: white;
+}
+.link-2{
+	Margin-left: 80px;
+	Margin-top: 20px;
+	Background-color: orange;
+}
+.parent-4{
+	Border: 0px solid black;
+	Width: 99.9%;
+	Height: 600px;
+	Background-color: white;
+}
+.child-4{
+	Border: 0px solid black;
+	Width: 45%;
+	Height: 500px;
+	Float: right;
+	Margin-right: 100px;
+	Background-color: white;
+}
+.image-3{
+    Border: 0px solid black;
+	Width: 40%;
+	Height: 500px;
+	Float: left;
+	Background-color: white;
+	Margin-top: 40px;
+	Margin-right: 30px;
+}
+.image-3 img{
+	Width: 100%;
+	Height: 500px;
+}
+.para-14{
+	Font-size: 35px;
+	Margin-right: 80px;
+	Margin-top: 160px;
+	Color: black;
+	Font-weight: bold;
+	}
+.empty-5{
+	Border: 0px solid black;
+	Width:20%;
+	Height: 5px;
+	Margin-right: 80px;
+	Margin-top: 20px;
+	Background-color: skyblue;
+}
+.para-15{
+		Margin-right: 80px;
+	Margin-top: 20px;
+	Color: black;
+	}
+.para-16{
+	Margin-right: 80px;
+	Margin-top: 3px;
+	Color: black;
+}
+A .link-3 p{
+	Text-align: center;
+	Padding-top: 8px;
+	Color: white;
+}
+.link-3{
+	Margin-right: 80px;
+	Margin-top: 20px;
+	Background-color: orange;
+}
+.link-3{
+	Border:0px solid black ;
+	Width: 25%;
+	Height: 40px;
+	Border-radius: 10px;
+
+}	
+.parent-5{
+          Border: 0px solid black;
+          Width: 99.9%;
+          Height: 500px;
+          Background-color: skyblue;
+      }
+      .para-17{
+	Font-size: 35px;
+	Margin-left: 80px;
+	Margin-top: 40px;
+	Color: black;
+	Font-weight: bold;
+	}
+	.para-18{
+	Font-size: 35px;
+	Margin-left: 80px;
+	Margin-top: 3px;
+	Color: black;
+	Font-weight: bold;
+	}
+
+.empty-6{
+	Border: 0px solid black;
+	Width:10%;
+	Height: 5px;
+	Margin-left: 80px;
+	Margin-top: 20px;
+	Background-color: blue;
+}
+.parent-5 table{
+			Border-top: 1px solid black;
+			Width: 80%;
+			Height: 50px;
+			Background-color: skyblue;
+		}
+.parent-5 td{
+			Border: 0px solid black;
+			Width: 30%;
+			Height: 30px;
+			Text-align: center;
+			Background-color: skyblue;
+		}
+		.parent-5 th{
+			Border: 0px solid black;
+			Width:30%;
+			Height:10px;
+			Background-color: skyblue;
+		}
+		.empty-7{
+	Border: 0px solid black;
+	Width:10%;
+	Height: 5px;
+	Margin-left: 120px;
+	Margin-top: 20px;
+	Background-color: skyblue;
+}
+.para-19{
+	Font-size: 35px;
+	Margin-left: 120px;
+	Margin-top: 40px;
+	Color: black;
+	Font-weight: bold;
+	}
+	.parent-6{
+	           Border: 0px solid black;
+	            Width: 99.9%;
+	            Height: 500px;
+	            Margin-top: 50px;
+	        }
+	        .child-5{
+	Border: 0px solid black;
+	Width: 18%;
+	Height: 350px;
+	Margin-left: 80px;
+	Margin-top: 50px;
+}
+.row-5{
+	Display: flex;
+}
+.image-4{
+	Border: 0px solid black;
+	Width:30%;
+	Height: 100px;
+	Margin-left:70px ;
+}
+.para-20{
+	Border: 0px solid black;
+	Width:100%;
+	Height: 250px;
+}
+.image-4 img{
+	Width: 100%;
+	Height: 100px;
+}
+.para-20 p{
+    Font-size: 20px;
+}
+.para-20 h2{
+	Margin-top: 15px;
+	Margin-bottom: 15px;
+}
+.para-21{
+	Font-size: 35px;
+	Margin-left: 80px;
+	Margin-top: 30px;
+	Padding-top: 20px;
+	Color: black;
+	Font-weight: bold;
+	}
+
+.empty-8{
+	Border: 0px solid black;
+	Width:10%;
+	Height: 5px;
+	Margin-left: 80px;
+	Margin-top: 20px;
+	Background-color: black;
+}
+.parent-7{
+          Border: 0px solid black;
+          Width: 99.9%;
+          Height: 550px;
+          Background-color: lightgrey;
+      }
+     .parent-7 table{
+			Border-top: 0px solid black;
+			Width: 80%;
+			Height: 100px;
+			Background-color:lightgrey;
+		}
+	.parent-7	td{
+			Border-top: 1px solid black;
+			Width: 30%;
+			Height: 60px;
+			Background-color: lightgrey;
+			Text-align: left;
+		}
+		.parent-7 a{
+			Color: black;
+			Margin-left: 150px;
+			Font-size: 20px;
+		}
+		.parent-7 a i{
+			Padding: 10px;
+		}
+		.parent-7 a:hover{
+			Color: blue;
+		}
+		.parent-8{
+	Border: 0px solid black;
+	Width: 99.9%;
+	Height: 400px;
+	Background-color: white;
+}
+.child-6{
+	Border: 0px solid black;
+	Width: 50%;
+	Height: 400px;
+	Float: left;
+	Margin-left: 100px;
+	Background-color: white;
+}
+.image-5{
+    Border: 0px solid black;
+	Width: 35%;
+	Height: 350px;
+	Float: right;
+	Background-color: white;
+	Margin-top: 40px;
+	Margin-right: 50px;
+}
+.image-5 img{
+	Width: 100%;
+	Height: 350px;
+}
+.para-22{
+	Font-size: 20px;
+	Margin-left: 80px;
+	Margin-top: 70px;
+	Color: black;
+}
+.para-23{
+	Font-size: 40px;
+	Margin-left: 80px;
+	Margin-top: 5px;
+	Color: black;
+}
+.para-24{
+		Margin-left: 80px;
+	Margin-top: 20px;
+	Color: black;
+}
+.link-4{
+	Border:0px solid black ;
+	Width: 25%;
+	Height: 30px;
+	Border-radius: 10px;
+
+}
+A .link-4 p{
+	Text-align: center;
+	Padding-top: 7px;
+	Color: white;
+}
+.link-4{
+	Margin-left: 80px;
+	Margin-top: 20px;
+	Background-color: orange;
+}
+.footer-parent{
+		 	Display: flex;
+		 	List-style: none;
+		 	Background-color: deepskyblue;
+		 }
+		 .footer-parent ul li{
+		 	List-style: none;
+		 	Padding: 10px;
+		 }
+		.footer-parent a{
+		 	Text-decoration: none;
+		 	Color: black;
+		 	Margin: 20px;
+		 	Padding: 20px;
+		 }
+		.footer-parent p{
+		 	Margin: 20px;
+		 	Padding:20px;
+		 	Font-weight: bold;
+		 }
+		 .footer-parent-1{
+		 	Border:0px solid black;
+		 	Margin-left: 400px;
+		 	Display: flex;
+		 }
+		 .parent-9{
+		 	Border: 1px solid black;
+		 	Border-color: deepskyblue;
+		 	Width: 99.9%;
+		 	Height: 200px;
+		 	Background-color: deepskyblue;
+		 }
+		 .emptyfooter{
+		 	Border: 1px solid white;
+		 	Width: 80%;
+		 	Margin-top: 20px;
+		 	Margin-left: 80px;
+		 }
+		 .child-7{
+		 	Border: 0px solid black;
+		 	Width: 99.9%;
+		 	Height: 50px;
+		 	Margin-top:10px ;
+		 	Background-color: deepskyblue;
+		 }
+		 .para-25{
+		 	Border: 0px solid black;
+		 	Width: 50%;
+		 	Height: 50px;
+		 	Float: left;
+		 	Margin-left: 40px;
+		 	Background-color:deepskyblue;
+		 }
+		 .logo{
+		 	Border: 0px solid black;
+		 	Width: 30%;
+		 	Height: 50px;
+		 	Float: right;
+		 	Background-color: deepskyblue;
+		 }
+		 .logo ul li{
+		 	Display: inline-block;
+		 }
+		 .para-26{
+		 	Margin-left: 35px;
+		 }
